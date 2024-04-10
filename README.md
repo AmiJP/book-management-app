@@ -32,6 +32,12 @@ This project is a RESTful API built using Node.js and Express. It manages a coll
 - **born**: The birth date of the author.
 - **city**: The city where the author resides.
 
+- ### User Model
+
+- **id**: Unique identifier for the author.
+- **email**: The user's email.
+- **password**: password for the account.
+
 ## API Endpoints
 
 ### Book Routes
